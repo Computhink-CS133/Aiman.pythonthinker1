@@ -29,4 +29,4 @@ print("Nice hobby. I might "+hobby+" too!")
 
 Dream_place_to_go=input("If you could go anywhere on Earth, where would it be?")
 
-print("I've heard a lot about "+Dream_place_to_go+". I")
+print("I've heard a lot about "+Dream_place_to_go+". I wish to go there too.")
