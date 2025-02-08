@@ -27,4 +27,4 @@ hobby=input("What do you like to do?")
 
 print("Nice hobby. I might "+hobby+" too!")
 
-Dream_place_to_go=input("If you could go ")
+Dream_place_to_go=input("If you could go anywhere on Earth, ")
