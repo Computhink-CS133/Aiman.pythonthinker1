@@ -18,3 +18,4 @@ print("You are "+name)
 fav_colour=input(name+ ", what is your favourite colour? ")
 
 print("I like "+ fav_colour+ " too")
+
