@@ -11,4 +11,5 @@
 # Total_price=(Green_price*Green_plates)+(Red_plates*Red_price)+(Blue_plates*Blue_price)
 # print(Total_price)
 
-Username=(input)
+name=input("What is your name?")
+print("You are"+name)
