@@ -19,4 +19,4 @@ fav_colour=input(name+ ", what is your favourite colour? ")
 
 print("I like "+ fav_colour+ " too")
 
-Fav_food=input("So, "+name+", what is your ")
+Fav_food=input("So, "+name+", what is your favourite food")
