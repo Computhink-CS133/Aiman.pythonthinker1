@@ -21,4 +21,4 @@ print("I like "+ fav_colour+ " too")
 
 Fav_food=input("So, "+name+", what is your favourite food")
 
-print("Yum! I want" + Fav_food)
+print("Yum! I want" + Fav_food+ )
