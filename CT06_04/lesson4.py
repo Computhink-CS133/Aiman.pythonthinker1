@@ -15,4 +15,4 @@ name=input("What is your name?")
 
 print("You are "+name)
 
-fav_colour=input
+fav_colour=input()
