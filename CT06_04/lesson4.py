@@ -9,3 +9,4 @@ Red_plates=3
 Blue_plates=5
 
 Total_price=(Green_price*Green_plates)+(Red_plates*Red_price)+(Blue_plates*Blue_price)
+Print
