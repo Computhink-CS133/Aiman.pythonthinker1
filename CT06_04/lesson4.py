@@ -8,3 +8,4 @@ Green_plates=4
 Red_plates=3
 Blue_plates=5
 
+Total_price=Green_price
