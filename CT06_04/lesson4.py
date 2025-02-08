@@ -21,7 +21,8 @@ print("I like "+ fav_colour+ " too")
 
 Fav_food=input("So, "+name+", what is your favourite food")
 
-print("Yum! I want" + Fav_food+" too!")
+print("Yum! I want " + Fav_food+" too!")
+
 
 hobby=input("What do you like to do?")
 
