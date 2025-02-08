@@ -11,10 +11,10 @@
 # Total_price=(Green_price*Green_plates)+(Red_plates*Red_price)+(Blue_plates*Blue_price)
 # print(Total_price)
 
-name=input("What is your name?")
+name=input("What is your name? ")
 
 print("You are "+name)
 
-fav_colour=input(name+ ", what is your favourite colour")
+fav_colour=input(name+ ", what is your favourite colour? ")
 
-print
+print()
