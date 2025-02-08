@@ -5,4 +5,4 @@ b=(10/2)
 c=a*5
 ans=c-b
 
-print
+print(ans)
