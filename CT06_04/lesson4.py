@@ -23,7 +23,6 @@ Fav_food=input("So, "+name+", what is your favourite food")
 
 print("Yum! I want " + Fav_food+" too!")
 
-
 hobby=input("What do you like to do?")
 
 print("Nice hobby. I might "+hobby+" too!")
