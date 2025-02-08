@@ -6,4 +6,5 @@ Red_price=1
 
 Green_plates=4
 Red_plates=3
-Blue
+Blue_plates=5
+
