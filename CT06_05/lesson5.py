@@ -26,8 +26,8 @@
 for num in range(1,6):
     print(num)
 
-for num in range(51,100):
+for num in range(51,101):
     print(num)
 
-for num in range(18,29):
+for num in range(18,228):
     print(num)
