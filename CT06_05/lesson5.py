@@ -10,11 +10,14 @@
 
 #
 
-name=input("What is your name? ")
+# name=input("What is your name? ")
 
-for letter in name:
-    print("Gimme a "+letter)
+# for letter in name:
+#     print("Gimme a "+letter)
 
-print("Who do we have?")
+# print("Who do we have?")
 
-print(name+ "!")
+# print(name+ "!")
+
+for i in range(100):
+    print
