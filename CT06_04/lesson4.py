@@ -33,3 +33,4 @@
 
 Age=input("What's your age this year?")
 
+int(ag)
