@@ -27,4 +27,4 @@ for num in range(1,6):
     print(num)
 
 for num in range(51,100):
-    print()
+    print(num)
