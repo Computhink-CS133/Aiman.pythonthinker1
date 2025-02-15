@@ -37,4 +37,4 @@ Age=Age+1
 
 print("Next year, you are "+str(Age)+" years old." )
 
-Num=input("Type random number")
+Num=int(input("Type random number"))
