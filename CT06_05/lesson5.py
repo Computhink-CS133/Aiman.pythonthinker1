@@ -10,4 +10,7 @@
 
 #
 
-name=input("What is y")
+name=input("What is your name? ")
+
+for letter in name:
+    Pr
