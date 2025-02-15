@@ -37,7 +37,7 @@ Age=Age+1
 
 print("Next year, you are "+str(Age)+" years old." )
 
-Num=int(input("Type random number"))
+Num=int(input("Type random number "))
 
 Num=Num*2
 
@@ -49,4 +49,4 @@ Year_now=int(input("Year it is now?"))
 
 Age_now=Year_now-Born
 
-print("You are" +str(Age_now))
+print("You are " +str(Age_now))
