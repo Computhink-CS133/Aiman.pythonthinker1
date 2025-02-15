@@ -45,4 +45,4 @@ print("Double it and it is "+ str(Num))
 
 Born=int(input("Year you born? "))
 
-Year 
+Year_now=int(input())
