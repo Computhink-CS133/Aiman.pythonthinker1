@@ -24,4 +24,4 @@
 #     print("GIVE ME MORE!!!!!!!!!")
 
 for num in range(1,6):
-    pr
+    print(num)
