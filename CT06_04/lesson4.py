@@ -47,4 +47,6 @@ Born=int(input("Year you born? "))
 
 Year_now=int(input("Year it is now?"))
 
-Age_now=Year_now-
+Age_now=Year_now-Born
+
+You 
