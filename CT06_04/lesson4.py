@@ -37,4 +37,4 @@ int(Age)
 
 Age=Age+1
 
-print
+print("Next year, u r" )
