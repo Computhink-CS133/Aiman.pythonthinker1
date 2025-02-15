@@ -49,4 +49,4 @@ Year_now=int(input("Year it is now?"))
 
 Age_now=Year_now-Born
 
-print
+print("")
