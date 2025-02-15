@@ -33,8 +33,6 @@
 
 Age=int(input("What's your age this year?"))
 
-int(Age)
-
 Age=Age+1
 
 print("Next year, u r"+str(Age)+" years old." )
