@@ -19,6 +19,6 @@
 
 # print(name+ "!")
 
-for i in range(100):
+for i in range():
     print("I like cake.")
     print("GIVE ME MORE!!!!!!!!!")
