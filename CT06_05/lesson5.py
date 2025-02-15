@@ -2,4 +2,4 @@
 
 Sending_to=input("Who are you sending to? ")
 
-age_they_turning=input("What is the age "+Sending_to+" is")
+age_they_turning=input("What is the age "+Sending_to+" is turning to?")
