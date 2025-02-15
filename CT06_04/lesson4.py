@@ -39,4 +39,5 @@ print("Next year, you are "+str(Age)+" years old." )
 
 Num=int(input("Type random number"))
 
-Num
+Num=Num*2
+
