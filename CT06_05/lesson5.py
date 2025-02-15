@@ -28,3 +28,6 @@ for num in range(1,6):
 
 for num in range(51,100):
     print(num)
+
+for num in range(18,29):
+    print()
