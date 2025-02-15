@@ -13,7 +13,7 @@
 name=input("What is your name? ")
 
 for letter in name:
-    print("Gimme a"+letter)
+    print("Gimme a "+letter)
 
 print("Who do we have?")
 
