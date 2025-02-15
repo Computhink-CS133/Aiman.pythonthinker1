@@ -19,5 +19,5 @@
 
 # print(name+ "!")
 
-for i in range(100):
+for i in range(10000000000):
     print("I like food!")
