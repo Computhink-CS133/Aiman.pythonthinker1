@@ -13,8 +13,8 @@
 name=input("What is your name? ")
 
 for letter in name:
-    Print("Gimme a"+letter)
+    print("Gimme a"+letter)
 
-Print("Who do we have?")
+print("Who do we have?")
 
 print(name+ "!")
