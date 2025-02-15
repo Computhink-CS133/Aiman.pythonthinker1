@@ -10,4 +10,4 @@
 
 #
 
-name+input()
+name=input("What is y")
