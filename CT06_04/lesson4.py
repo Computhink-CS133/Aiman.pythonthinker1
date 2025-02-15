@@ -41,3 +41,4 @@ Num=int(input("Type random number"))
 
 Num=Num*2
 
+print()
