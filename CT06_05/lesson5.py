@@ -13,4 +13,4 @@
 name=input("What is your name? ")
 
 for letter in name:
-    Pr
+    Print(Gi)
