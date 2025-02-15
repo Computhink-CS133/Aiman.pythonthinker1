@@ -31,4 +31,4 @@
 
 # print("I've heard a lot about "+Dream_place_to_go+". I wish to go there too.")
 
-Age=input("What")
+Age=input("What's your age")
