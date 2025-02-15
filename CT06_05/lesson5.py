@@ -17,4 +17,4 @@ for letter in name:
 
 Print("Who do we have?")
 
-Pr
+print()
