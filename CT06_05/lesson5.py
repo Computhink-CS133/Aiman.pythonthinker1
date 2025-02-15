@@ -20,4 +20,4 @@
 # print(name+ "!")
 
 for i in range(100):
-    print("I like ")
+    print("I like food!")
