@@ -11,22 +11,22 @@
 # Total_price=(Green_price*Green_plates)+(Red_plates*Red_price)+(Blue_plates*Blue_price)
 # print(Total_price)
 
-name=input("What is your name? ")
+# name=input("What is your name? ")
 
-print("You are "+name)
+# print("You are "+name)
 
-fav_colour=input(name+ ", what is your favourite colour? ")
+# fav_colour=input(name+ ", what is your favourite colour? ")
 
-print("I like "+ fav_colour+ " too")
+# print("I like "+ fav_colour+ " too")
 
-Fav_food=input("So, "+name+", what is your favourite food?")
+# Fav_food=input("So, "+name+", what is your favourite food?")
 
-print("Yum! I want " + Fav_food+" too!")
+# print("Yum! I want " + Fav_food+" too!")
 
-hobby=input("What do you like to do?")
+# hobby=input("What do you like to do?")
 
-print("Nice hobby. I might "+hobby+" too!")
+# print("Nice hobby. I might "+hobby+" too!")
 
-Dream_place_to_go=input("If you could go anywhere on Earth, where would it be?")
+# Dream_place_to_go=input("If you could go anywhere on Earth, where would it be?")
 
-print("I've heard a lot about "+Dream_place_to_go+". I wish to go there too.")
+# print("I've heard a lot about "+Dream_place_to_go+". I wish to go there too.")
