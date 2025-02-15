@@ -42,3 +42,5 @@ Num=int(input("Type random number"))
 Num=Num*2
 
 print("Double it and it is "+ str(Num))
+
+pr
