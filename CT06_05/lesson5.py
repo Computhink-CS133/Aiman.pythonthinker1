@@ -15,4 +15,6 @@ name=input("What is your name? ")
 for letter in name:
     Print("Gimme a"+letter)
 
-Print("Who do we ")
+Print("Who do we have?")
+
+Pr
