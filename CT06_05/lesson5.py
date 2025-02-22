@@ -47,3 +47,4 @@
 
 # print(" ")
 
+start=int()
