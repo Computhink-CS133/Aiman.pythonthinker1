@@ -39,4 +39,4 @@ for num in range(8,97,8):
     print(num)
 
 for num in range(5,0,-1):
-    print()
+    print(num)
