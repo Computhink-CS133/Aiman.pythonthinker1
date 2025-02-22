@@ -52,4 +52,5 @@ end=int(input("End with? "))
 
 if start<end:
     for num in range(start,end+1):
-        print
+        print(num)
+        
