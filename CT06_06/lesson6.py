@@ -60,7 +60,6 @@ print("Hello, World!")
 # for i in r
 # print("Repeat" * "3")
 
-
 # # **Task 3d**:
 # year = 2023
 # print("The year is " + year)
