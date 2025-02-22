@@ -9,3 +9,5 @@ for i in range(students):
 
 Average=score/students
 
+print(Average)
+
