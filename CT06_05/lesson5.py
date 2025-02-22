@@ -35,7 +35,7 @@
 for num in range(2,25,2):
     print(num)
 
-print
+print(" ")
 
 for num in range(8,97,8):
     print(num)
