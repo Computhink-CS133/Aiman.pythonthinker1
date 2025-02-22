@@ -47,4 +47,4 @@ for num in range(5,0,-1):
 
 print(" ")
 
-#Moving to lesson6.
+# Moving to lesson6.py
