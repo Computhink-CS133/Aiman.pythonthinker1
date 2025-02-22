@@ -23,14 +23,14 @@
 #     print("I like cake.")
 #     print("GIVE ME MORE!!!!!!!!!")
 
-for num in range(1,6):
-    print(num)
+# for num in range(1,6):
+#     print(num)
 
-for num in range(51,101):
-    print(num)
+# for num in range(51,101):
+#     print(num)
 
-for num in range(18,30):
-    print(num)
+# for num in range(18,30):
+#     print(num)
 
 for num in range(2,25,2):
     print(num)
