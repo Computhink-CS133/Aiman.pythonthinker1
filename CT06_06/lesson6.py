@@ -66,7 +66,7 @@ print("The year is " +str(year) )
 
 # # **Task 3e**:
 x = "10"
-y = x / 2
+y = int(x) / 2
 
 # **Task 3f**:
 end = "5"
