@@ -47,4 +47,4 @@
 
 # print(" ")
 
-start=int(input(""))
+start=int(input("Start with?"))
