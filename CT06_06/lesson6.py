@@ -57,7 +57,7 @@ print(number - 5)
 
 
 # # **Task 3c**:
-print(Repeat)
+print("Repeat"*3)
 
 
 # # **Task 3d**:
