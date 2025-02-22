@@ -28,16 +28,16 @@
 # #**Task 1e**:
 # print("Hello, World!")
 
-age=69
-print(age)
+# age=69
+# print(age)
 
-# **Task 2b**:
-name = "Alice"
-print(name)
+# # **Task 2b**:
+# name = "Alice"
+# print(name)
 
-# **Task 2c**:
-x = 5
-print(x)
+# # **Task 2c**:
+# x = 5
+# print(x)
 
 
 # **Task 2d**:
