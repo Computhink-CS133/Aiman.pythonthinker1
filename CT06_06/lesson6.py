@@ -6,3 +6,4 @@ score=0
 
 for i in range(students):
     score=score+int(input("The score of this kid? "))
+
