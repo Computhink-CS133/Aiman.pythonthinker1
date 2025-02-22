@@ -32,18 +32,18 @@
 # for num in range(18,30):
 #     print(num)
 
-for num in range(2,25,2):
-    print(num)
+# for num in range(2,25,2):
+#     print(num)
 
-print(" ")
+# print(" ")
 
-for num in range(8,97,8):
-    print(num)
+# for num in range(8,97,8):
+#     print(num)
 
-print(" ")
+# print(" ")
 
-for num in range(5,0,-1):
-    print(num)
+# for num in range(5,0,-1):
+#     print(num)
 
-print(" ")
+# print(" ")
 
