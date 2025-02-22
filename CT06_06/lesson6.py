@@ -25,13 +25,11 @@ print(age+1)
 number = 10
 print(number - "5")
 
-number=10
-print(number-5)
+
 
 # **Task 3c**:
 print("Repeat" * "3")
 
-print("Repeat" * "3")
 
 # **Task 3d**:
 year = 2023
@@ -42,6 +40,6 @@ x = "10"
 y = x / 2
 
 # **Task 3f**:
-# end = "5"
-# for i in range(end):
-#     print(i)
+end = "5"
+for i in range(end):
+    print(i)
