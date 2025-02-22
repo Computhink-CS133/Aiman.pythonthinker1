@@ -15,15 +15,15 @@
 # Fix the errors in the following:
 
 # **Task 3a**:
-# age = "25"
-# print(age + 1)
+age = "25"
+print(age + 1)
 
 age=25
 print(age+1)
 
 # **Task 3b**:
-# number = 10
-# print(number - "5")
+number = 10
+print(number - "5")
 
 number=10
 print(number-5)
