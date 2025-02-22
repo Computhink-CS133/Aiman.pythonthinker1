@@ -1,3 +1,3 @@
 # print("Hello from lesson 6")
 
-students=int()
+students=int(input("Hown"))
