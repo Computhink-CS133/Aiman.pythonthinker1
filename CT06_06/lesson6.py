@@ -28,7 +28,7 @@
 # #**Task 1e**:
 # print("Hello, World!")
 
-age=100
+age=69
 print(age)
 
 # **Task 2b**:
