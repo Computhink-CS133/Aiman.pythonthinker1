@@ -57,18 +57,18 @@ print(number - 5)
 
 
 # # **Task 3c**:
-# for i in r
-# print("Repeat" * "3")
+print(Repeat)
+
 
 # # **Task 3d**:
-# year = 2023
-# print("The year is " + year)
+year = 2023
+print("The year is " + year)
 
 # # **Task 3e**:
-# x = "10"
-# y = x / 2
+x = "10"
+y = x / 2
 
-# # **Task 3f**:
-# end = "5"
-# for i in range(end):
-#     print(i)
+# **Task 3f**:
+end = "5"
+for i in range(end):
+    print(i)
