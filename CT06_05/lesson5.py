@@ -50,3 +50,6 @@
 start=int(input("Start with? "))
 end=int(input("End with? "))
 
+if start<end:
+    for num in range(start,end+1):
+        print
