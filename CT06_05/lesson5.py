@@ -34,3 +34,6 @@
 
 for num in range(2,25,2):
     print(num)
+
+for num in range(8,97,8):
+    print(num)
