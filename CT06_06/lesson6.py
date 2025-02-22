@@ -28,6 +28,22 @@
 # #**Task 1e**:
 # print("Hello, World!")
 
+age=100
+print(age)
+
+# **Task 2b**:
+name = "Alice"
+print(name)
+
+# **Task 2c**:
+x = 5
+print(x)
+
+
+# **Task 2d**:
+print("Hello, World!")
+
+
  # **Task 3a**:
 # age = 25
 # print(age + 1)
