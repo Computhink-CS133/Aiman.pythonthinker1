@@ -47,4 +47,4 @@
 
 # print(" ")
 
-start=int()
+start=int(input(""))
