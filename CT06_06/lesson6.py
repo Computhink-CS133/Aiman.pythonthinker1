@@ -10,5 +10,5 @@ for i in range(students):
 Average=score/students
 
 print("The average is")
-print(Average))
+print(Average)
 
