@@ -26,7 +26,7 @@ print(age+1)
 # print(number - "5")
 
 number=10
-
+print()
 
 # **Task 3c**:
 # print("Repeat" * "3")
