@@ -9,6 +9,6 @@ for i in range(students):
 
 Average=score/students
 
-print()
+print("The average is")
 print(Average)
 
