@@ -47,7 +47,7 @@
 
 # print(" ")
 
-#<!Dov
+#<!Doctype HTML>
 
 start=int(input("Start with? "))
 end=int(input("End with? "))
