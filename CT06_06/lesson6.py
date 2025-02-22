@@ -18,6 +18,8 @@
 # age = "25"
 # print(age + 1)
 
+age=25
+
 # **Task 3b**:
 # number = 10
 # print(number - "5")
