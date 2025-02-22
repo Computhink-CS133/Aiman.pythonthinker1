@@ -48,4 +48,4 @@
 # print(" ")
 
 start=int(input("Start with?"))
-end=int()
+end=int(input(""))
