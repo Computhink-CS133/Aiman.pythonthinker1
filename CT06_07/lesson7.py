@@ -23,5 +23,5 @@
 for i in range(1,10):
     print(i) #Prints out i variable
 
-for i in range(1,10):
+for i in range(2,20,2):
     print(i) #Prints out i variable
