@@ -61,3 +61,4 @@
 
 num=input("What is da number for da time table???????")
 
+number=input 
