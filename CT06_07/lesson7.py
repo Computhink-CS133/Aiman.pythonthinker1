@@ -61,4 +61,4 @@
 
 num=input("What is da number for da time table???????")
 
-number=input("What is ")
+number=input("How long is da time table?")
