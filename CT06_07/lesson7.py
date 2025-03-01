@@ -29,4 +29,6 @@
 # for i in range(10,0,-1):
 #     print(i) #Prints out i variable
 
-word=input("Helllo there! What ")
+word=input("Helllo there! What word you want? ")
+
+pe
