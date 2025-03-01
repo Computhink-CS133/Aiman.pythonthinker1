@@ -32,3 +32,5 @@
 word=input("Helllo there! What word you want? ")
 
 rep=input("Oooookay! How many words of that word do you want? Write a value. ")
+
+for i in range(rep)
