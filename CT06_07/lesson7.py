@@ -22,3 +22,6 @@
 
 for i in range(1,10):
     print(i) #Prints out i variable
+
+for i in range(1,10):
+    print(i) #Prints out i variable
