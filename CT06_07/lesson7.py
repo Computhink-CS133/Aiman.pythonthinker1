@@ -20,8 +20,8 @@
 
 # print("Average score for " + student_name + " is: " + str(round(average_score,2)))
 
-for i in range(1,10):
+for i in range(1,11):
     print(i) #Prints out i variable
 
-for i in range(2,20,2):
+for i in range(2,21,2):
     print(i) #Prints out i variable
