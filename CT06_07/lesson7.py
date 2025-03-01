@@ -36,7 +36,7 @@
 # for i in range(int(rep)):
 #     print("Hello thereee "+word)
 
-#<!Doctype HTML>
+
 
 sum=0
 
