@@ -59,4 +59,4 @@
 
 
 
-num=input("What is da numb")
+num=input("What is da number for ")
