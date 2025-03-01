@@ -29,7 +29,7 @@
 # for i in range(10,0,-1):
 #     print(i) #Prints out i variable
 
-word=input("u r name?  ")
+word=input("ur name?  ")
 
 rep=input("Oooookay! How many names of that name do you want? Write a value. ")
 
