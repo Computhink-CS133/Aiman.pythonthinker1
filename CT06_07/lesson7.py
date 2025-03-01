@@ -29,9 +29,10 @@
 # for i in range(10,0,-1):
 #     print(i) #Prints out i variable
 
-word=input("Whatttttt isssss urrrrrrr nameeeeeee????????  ")
+# word=input("Whatttttt isssss urrrrrrr nameeeeeee????????  ")
 
-rep=input("Oooookay! How many names of that name do you want? Write a value. ")
+# rep=input("Oooookay! How many names of that name do you want? Write a value. ")
 
-for i in range(int(rep)):
-    print("Hello thereee "+word)
+# for i in range(int(rep)):
+#     print("Hello thereee "+word)
+
