@@ -31,4 +31,4 @@
 
 word=input("Helllo there! What word you want? ")
 
-rep=input("Oooookay! ")
+rep=input("Oooookay! How many ")
