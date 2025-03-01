@@ -31,7 +31,7 @@
 
 word=input("u r name?  ")
 
-rep=input("Oooookay! How many names of that word do you want? Write a value. ")
+rep=input("Oooookay! How many names of that name do you want? Write a value. ")
 
 for i in range(int(rep)):
     print(word)
