@@ -35,6 +35,8 @@
 
 # for i in range(int(rep)):
 #     print("Hello thereee "+word)
+
+
 sum=0
 
 for i in range(1,6):
