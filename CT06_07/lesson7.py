@@ -59,4 +59,4 @@
 
 
 
-num=inp
+num=input(What is da)
