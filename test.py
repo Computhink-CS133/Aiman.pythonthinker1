@@ -1,4 +1,4 @@
-Start=int(input("What number do you want to start with "))#ask for start number and converts increament
+Start=int(input("What number do you want to start with "))#ask for start number and converts start number to 
 Stop=int(input("What number do you want to stop with "))#ask for stop number
 step=int(input("What is the increament "))#ask for increament
 
