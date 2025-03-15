@@ -19,4 +19,4 @@ print("Your 20 lucky numbers are")
 for i in range(20):
 
     print(random.randint(1,999))
-    
+print()
