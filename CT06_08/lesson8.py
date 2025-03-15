@@ -2,7 +2,7 @@
 
 import time
 
-secs=int
+secs=int(input(""))
 
 for i in range(10,0,-1):
     print(i)
