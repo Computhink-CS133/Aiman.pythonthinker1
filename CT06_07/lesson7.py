@@ -66,3 +66,8 @@
 # for i in range(1,int(number)+1):
 #     print(num+"X"+ str(i)+"="+str(int(num)*i))
 
+# num=int(input("Give me a number "))
+
+# for i in range(1,num+1):
+#     print(str(i)*i)
+
