@@ -2,7 +2,7 @@
 
 import time
 
-secs=int(input("What is the number of seconds you want to "))
+secs=int(input("What is the number of seconds you want to count down? "))
 
 for i in range(10,0,-1):
     print(i)
