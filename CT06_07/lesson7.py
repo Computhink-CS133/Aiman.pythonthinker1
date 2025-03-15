@@ -76,6 +76,16 @@
 # for i in range(1,num+1):
 #     print(str(i)*i)
 
+# total=0
+# for i in range(1,6):
+#     total=total+int(input("What is the score of  student "+str(i)+" "))
+
+# average=total/5
+
+# print("the average is "+str(average))
+
+# print("the rounded average is "+str(round(average,0)))
+
 total=0
 for i in range(1,6):
     total=total+int(input("What is the score of  student "+str(i)+" "))
