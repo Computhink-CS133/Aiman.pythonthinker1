@@ -42,4 +42,4 @@ for i in range(rounds):
     if (ans==num1+num2):
         print("correct")
     else:
-        print("Wrong. Answer is"+num1+num2)
+        print("Wrong. Answer is"+str(num1+num2))
