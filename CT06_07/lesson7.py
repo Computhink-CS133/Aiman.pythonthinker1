@@ -84,4 +84,4 @@ average=total/5
 
 print("the average is "+str(average))
 
-print("the average is "+str(average))
+print("the rounded average is "+str(round(average)))
