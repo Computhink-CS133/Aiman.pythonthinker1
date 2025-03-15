@@ -88,10 +88,10 @@
 
 total=0
 num=int(input("How many students do you have? "))
-for i in range(1,6):
+for i in range(1,num+1):
     total=total+int(input("What is the score of  student "+str(i)+" "))
 
-average=total/5
+average=total/num
 
 print("the average is "+str(average))
 
