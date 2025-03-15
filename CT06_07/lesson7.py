@@ -59,9 +59,10 @@
 
 
 
-num=input("What is da number for da time table???????")
+# num=input("What is da number for da time table???????")
 
-number=input("How long is da time table?")
+# number=input("How long is da time table?")
 
-for i in range(1,int(number)+1):
-    print(num+"X"+ str(i)+"="+str(int(num)*i))
+# for i in range(1,int(number)+1):
+#     print(num+"X"+ str(i)+"="+str(int(num)*i))
+
