@@ -83,3 +83,5 @@ for i in range(1,6):
 average=total/5
 
 print("the average is "+str(average))
+
+print("the average is "+str(average))
