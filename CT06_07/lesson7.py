@@ -78,4 +78,4 @@
 
 total=0
 for i in range(5):
-    total=total+input("What is then")
+    total=total+input("What is the score of this students")
