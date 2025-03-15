@@ -23,5 +23,5 @@
 
 var1=True
 var2=False
-de
+
 print(var1==var2)
