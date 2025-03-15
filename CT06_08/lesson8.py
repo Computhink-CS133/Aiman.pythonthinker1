@@ -23,6 +23,5 @@
 
 var1=True
 var2=False
-
-def 
+de
 print(var1==var2)
