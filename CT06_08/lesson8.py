@@ -23,3 +23,5 @@
 
 var1=True
 var2=True
+
+print()
