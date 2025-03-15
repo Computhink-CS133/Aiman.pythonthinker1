@@ -79,3 +79,5 @@
 total=0
 for i in range(5):
     total=total+input("What is the score of  student "+str(i))
+
+average=t
