@@ -3,5 +3,5 @@ print("Hello from lesson 8")
 num=input("Give me a number")
 
 for i in range(int(num)):
-    print(str)
+    print(str(num))
 
