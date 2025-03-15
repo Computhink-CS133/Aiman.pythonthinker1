@@ -20,3 +20,5 @@
 
 #     print(random.randint(0,9999))
 # print("Congrats!")
+
+var1=True
