@@ -24,4 +24,5 @@
 var1=True
 var2=False
 
+def 
 print(var1==var2)
