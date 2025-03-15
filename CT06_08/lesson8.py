@@ -3,5 +3,5 @@
 num=input("Give me a number ")
 
 for i in range(int(num)+1):
-    print(str(num)*int(num))
+    print(num*int(num))
 
