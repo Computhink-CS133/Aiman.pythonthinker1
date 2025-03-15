@@ -33,7 +33,7 @@ import random
 num1=random.randint(1,50)
 num2=random.randint(1,50)
 
-rounds=input("How many questions do you want? ")
+rounds=int(input("How many questions do you want? "))
 
 
 for i in range(rounds):
