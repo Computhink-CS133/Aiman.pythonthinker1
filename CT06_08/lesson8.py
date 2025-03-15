@@ -40,6 +40,6 @@ for i in range(rounds):
     num2=random.randint(1,50)   
     ans=int(input("What is "+ str(num1)+"+"+str(num2)+"? "))
     if (ans==num1+num2):
-        print("correct")
+        print("Correct")
     else:
         print("Wrong. Answer is "+str(num1+num2))
