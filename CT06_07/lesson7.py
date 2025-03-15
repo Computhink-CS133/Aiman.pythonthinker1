@@ -87,7 +87,7 @@
 # print("the rounded average is "+str(round(average,0)))
 
 total=0
-num=i
+num=int()
 for i in range(1,6):
     total=total+int(input("What is the score of  student "+str(i)+" "))
 
