@@ -1,4 +1,4 @@
 print("Hello from lesson 8")
 
-input
+num=input("G")
 
