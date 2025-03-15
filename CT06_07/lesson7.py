@@ -96,3 +96,4 @@ average=total/num
 print("the average is "+str(average))
 
 print("the rounded average is "+str(round(average,0)))
+
