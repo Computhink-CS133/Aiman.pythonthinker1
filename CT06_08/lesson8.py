@@ -29,3 +29,5 @@
 # print(var1==var2)
 
 import random
+
+num1=ran
