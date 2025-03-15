@@ -82,4 +82,4 @@ for i in range(5):
 
 average=total/5
 
-print("the average is "+average)
+print("the average is "+str(average))
