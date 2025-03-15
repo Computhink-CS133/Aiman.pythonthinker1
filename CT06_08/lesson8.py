@@ -17,4 +17,4 @@ import random
 # print(random.randint(1,6))
 print("Your 20 lucky numbers are")
 for i in range(20):
-    print(random.randint())
+    print(random.randint(1.9999999999999999999999999999999999999999999999999999999))
