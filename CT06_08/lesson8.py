@@ -21,9 +21,11 @@
 #     print(random.randint(0,9999))
 # print("Congrats!")
 
-var1=True
-var2=False
+# var1=True
+# var2=False
 
 
 
-print(var1==var2)
+# print(var1==var2)
+
+j
