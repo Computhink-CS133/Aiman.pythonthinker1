@@ -24,4 +24,4 @@
 var1=True
 var2=True
 
-print()
+print(var1==var2)
