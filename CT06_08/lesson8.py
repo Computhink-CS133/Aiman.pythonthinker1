@@ -23,6 +23,7 @@
 
 var1=True
 var2=False
+write()
 
-
-print(var1==var2)
+def write():
+    print(var1==var2)
