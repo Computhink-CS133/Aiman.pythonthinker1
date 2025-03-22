@@ -17,4 +17,4 @@
 DAYS=int(input("How long have you been borrowing the book? "))
 
 if DAYS>25:
-    
+    print("Reme")
