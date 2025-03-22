@@ -3,4 +3,4 @@
 import random as rand
 
 num1=str(rand.randint(1,10))
-guess=str
+guess=input("")
