@@ -22,3 +22,5 @@
 
 
 import random as r
+
+num=r.randint
