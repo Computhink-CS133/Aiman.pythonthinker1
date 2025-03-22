@@ -23,4 +23,4 @@
 
 import random as r
 
-num=r.randint
+num=r.randint(1,10)
