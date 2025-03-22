@@ -5,3 +5,4 @@ import random as rand
 num1=str(rand.randint(1,10))
 guess=input("Pick a random number between 1 to 10")
 
+print("")
