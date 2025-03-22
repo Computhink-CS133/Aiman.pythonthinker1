@@ -37,5 +37,7 @@ numapples=int(input("How many apples do you want? "))
 numoranges=int(input("How many oranges do you want? "))
 
 appleprice=0.60*numapples
+if numapples>5:
+    print()
 
 
