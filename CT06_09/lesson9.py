@@ -8,4 +8,4 @@ guess=input("Pick a random number between 1 to 10")
 print("Your guess: "+ guess)
 print("The number: "+ num)
 
-print()
+print(guess==num)
