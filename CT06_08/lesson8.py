@@ -46,3 +46,5 @@
 
 import random as r
 
+rounds=int(input("How many questions do you want? "))
+
