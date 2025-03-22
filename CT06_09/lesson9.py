@@ -33,6 +33,6 @@
 
 
 
-numapples=int(input("How many "))
+numapples=int(input("How many apples "))
 
 
