@@ -28,18 +28,20 @@
 
 # print(var1==var2)
 
-import random
+# import random
 
 
 
-rounds=int(input("How many questions do you want? "))
+# rounds=int(input("How many questions do you want? "))
 
 
-for i in range(rounds):
-    num1=random.randint(1,50)
-    num2=random.randint(1,50)   
-    ans=int(input("What is "+ str(num1)+"+"+str(num2)+"? "))
-    if (ans==num1+num2):
-        print("Correct")
-    else:
-        print("Wrong. Answer is "+str(num1+num2))
+# for i in range(rounds):
+#     num1=random.randint(1,50)
+#     num2=random.randint(1,50)   
+#     ans=int(input("What is "+ str(num1)+"+"+str(num2)+"? "))
+#     if (ans==num1+num2):
+#         print("Correct")
+#     else:
+#         print("Wrong. Answer is "+str(num1+num2))
+
+import 
