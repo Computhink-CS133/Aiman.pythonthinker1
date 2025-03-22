@@ -2,4 +2,4 @@
 
 import random as rand
 
-num1=rand.randint
+num1=str(rand.randint(1,10))
