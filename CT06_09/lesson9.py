@@ -14,7 +14,7 @@
 # print("All numbers are even: "+str(alleven))
 # print("All numbers are odd: "+str(allodd))
 
-DAYS=int(input("How long have you been borrowing the book? "))
+DAYS=int(input("How many days have you been borrowing the book? "))
 
 if DAYS>25:
     print("Remember to return it.")
