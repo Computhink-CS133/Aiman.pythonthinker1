@@ -21,4 +21,4 @@
 
 
 
-im
+import random as r
