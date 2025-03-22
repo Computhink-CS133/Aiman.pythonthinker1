@@ -59,7 +59,7 @@ num1=r.randint(1,6)
 num2=r.randint(1,6)
 num3=r.randint(1,6)
 alleven=num1 % 2==0 and num2 % 2==0 and num3 % 2==0
-allodd=num1 % 2==0 and num2 % 2==0 and num3 % 2==0
+allodd=num1 % 2==1 and num2 % 2==1 and num3 % 2==1
 
 print("Number 1: "+str(num1) )
 print("Number 2: "+str(num2) )
