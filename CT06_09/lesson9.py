@@ -14,4 +14,4 @@
 # print("All numbers are even: "+str(alleven))
 # print("All numbers are odd: "+str(allodd))
 
-DAYS=int(input(""))
+DAYS=int(input("How long have you "))
