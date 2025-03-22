@@ -36,6 +36,6 @@
 numapples=int(input("How many apples do you want? "))
 numoranges=int(input("How many oranges do you want? "))
 
-appleprice=
+appleprice=0.60*numapples
 
 
