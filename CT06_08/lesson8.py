@@ -58,4 +58,4 @@ import random as r
 num1=r.randint(1,6)
 num2=r.randint(1,6)
 num3=r.randint(1,6)
-all=rando
+all=num1 % 2
