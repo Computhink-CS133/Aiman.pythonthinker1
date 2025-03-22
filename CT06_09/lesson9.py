@@ -44,4 +44,4 @@ orangeprice=0.90*numoranges
 if numoranges>5:
     orangeprice=(orangeprice-(orangeprice/10))
 
-
+print()
