@@ -60,5 +60,5 @@ num2=r.randint(1,6)
 num3=r.randint(1,6)
 all=num1 % 2==0 and num2 % 2==0 and num3 % 2==0
 
-print
+print("Number1" )
 print("All numbers are even: "+all)
