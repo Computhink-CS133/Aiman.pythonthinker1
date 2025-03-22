@@ -62,5 +62,5 @@ all=num1 % 2==0 and num2 % 2==0 and num3 % 2==0
 
 print("Number 1: "+str(num1) )
 print("Number 2: "+str(num2) )
-print("Number 31: "+str(num3) )
+print("Number 3: "+str(num3) )
 print("All numbers are even: "+all)
