@@ -44,4 +44,5 @@
 #     else:
 #         print("Wrong. Answer is "+str(num1+num2))
 
-import 
+import random as r
+
