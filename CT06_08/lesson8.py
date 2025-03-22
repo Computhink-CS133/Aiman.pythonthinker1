@@ -55,4 +55,4 @@ import random as r
 #     print("Your answer is "+ str(Ans==num1*num2))
 #     print("The answer is "+str(num1*num2))
 
-num1=r.randint(1.)
+num1=r.randint(1,6)
