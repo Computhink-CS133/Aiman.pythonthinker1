@@ -50,4 +50,5 @@ rounds=int(input("How many questions do you want? "))
 
 for i in range(rounds):
     num1=r.randint(1.10)
-    num1=r.randint(1.10)
+    num2=r.randint(1.10)
+    
