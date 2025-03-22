@@ -46,11 +46,12 @@
 
 import random as r
 
-rounds=int(input("How many questions do you want? "))
+# rounds=int(input("How many questions do you want? "))
 
-for i in range(rounds):
-    num1=r.randint(1,10)
-    num2=r.randint(1,10)
-    Ans=int(input("What is "+str(num1)+" x "+str(num2)+"? "))
-    print("Your answer is "+ str(Ans==num1*num2))
-    print("The answer is "+str(num1*num2))
+# for i in range(rounds):
+#     num1=r.randint(1,10)
+#     num2=r.randint(1,10)
+#     Ans=int(input("What is "+str(num1)+" x "+str(num2)+"? "))
+#     print("Your answer is "+ str(Ans==num1*num2))
+#     print("The answer is "+str(num1*num2))
+
