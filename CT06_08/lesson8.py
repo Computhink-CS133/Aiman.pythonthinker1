@@ -56,3 +56,5 @@ import random as r
 #     print("The answer is "+str(num1*num2))
 
 num1=r.randint(1,6)
+num2=r.randint(1,6)
+num3=r.randint(1,6)
