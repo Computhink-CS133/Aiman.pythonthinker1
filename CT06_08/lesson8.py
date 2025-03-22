@@ -58,10 +58,10 @@ import random as r
 num1=r.randint(1,6)
 num2=r.randint(1,6)
 num3=r.randint(1,6)
-all=num1 % 2==0 and num2 % 2==0 and num3 % 2==0
+alleven=num1 % 2==0 and num2 % 2==0 and num3 % 2==0
 
 print("Number 1: "+str(num1) )
 print("Number 2: "+str(num2) )
 print("Number 3: "+str(num3) )
 print("All numbers are even: "+str(all))
-print("All numbers are even: "+str(all))
+print("All numbers are odd: "+str(all))
