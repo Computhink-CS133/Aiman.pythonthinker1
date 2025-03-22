@@ -26,4 +26,4 @@ import random as r
 num=r.randint(1,10)
 ans=int(input("Guess the number"))
 if num==ans:
-    
+    print("Hooray")
