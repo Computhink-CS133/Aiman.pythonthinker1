@@ -42,4 +42,4 @@ if numapples>5:
 
 orangeprice=0.90*numoranges
 if numoranges>5:
-    appleprice=(appleprice-(appleprice/10))
+    orangeprice=(orangeprice-(appleprice/10))
