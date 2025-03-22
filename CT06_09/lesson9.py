@@ -38,6 +38,6 @@ numoranges=int(input("How many oranges do you want? "))
 
 appleprice=0.60*numapples
 if numapples>5:
-    print(appleprice/10)
+    print(appleprice-(appleprice/10))
 
 
