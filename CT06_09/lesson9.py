@@ -33,6 +33,6 @@
 
 
 
-
+numapples=int(input)
 
 
