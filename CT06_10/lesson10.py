@@ -117,7 +117,7 @@
 
 
 
-graid=int(input("What your marks? "))
+graid=int(input("What your mark? "))
 
 if graid>=90:
     print("A")
