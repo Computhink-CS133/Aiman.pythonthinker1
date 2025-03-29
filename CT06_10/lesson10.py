@@ -18,12 +18,12 @@
 
 
 
-agwe=int(input("Give me your age right now! "))
+# agwe=int(input("Give me your age right now! "))
 
-if agwe<13:
-    print("Little kid")
-else:
-    if agwe<19:
-        print("Teenager")
-    else:
-        print("Adults")
+# if agwe<13:
+#     print("Little kid")
+# else:
+#     if agwe<19:
+#         print("Teenager")
+#     else:
+#         print("Adults")
