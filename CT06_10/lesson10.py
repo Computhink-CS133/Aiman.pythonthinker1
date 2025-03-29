@@ -7,3 +7,5 @@
 # else:
 #     print("Negative")
 num=int(input("Give me a random number"))
+if num%2==0:
+    
