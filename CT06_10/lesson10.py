@@ -117,4 +117,4 @@
 
 
 
-graid=
+graid=int(inpu)
