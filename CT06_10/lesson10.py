@@ -10,4 +10,4 @@ num=int(input("Give me a random number"))
 if num%2==0:
     print("Even")
 else:
-    print()
+    print("Odd")
