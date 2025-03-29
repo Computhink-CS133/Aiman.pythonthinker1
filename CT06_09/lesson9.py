@@ -89,4 +89,6 @@ for i in range(10):
         undesire+=1
 
 if undesire>desire:
-    print("Your hotel is un")
+    print("Your hotel is undesirable")
+else:
+    print("Your hotel is desirable")
