@@ -24,4 +24,4 @@ if agwe<13:
     print("Little kid")
 else:
     if agwe<19:
-        print
+        print("Teenager")
