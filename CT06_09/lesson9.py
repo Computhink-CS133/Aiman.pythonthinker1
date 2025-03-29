@@ -49,7 +49,7 @@ days=int(input("How many days are there? "))
 hotdays=0
 
 for i in range(days):
-    temp=int(input("What is the temperature"))
+    temp=int(input("What is the temperature? "))
     if temp>30:
         hotdays+=1
 
