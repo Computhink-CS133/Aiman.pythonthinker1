@@ -127,3 +127,5 @@ elif graid>70:
     print("C")
 elif graid>60:
     print("D")
+else:
+    print()
