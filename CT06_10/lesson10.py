@@ -123,4 +123,7 @@ if graid>90:
     print("A")
 elif graid>80:
     print("B")
-    elif graid>
+elif graid>70:
+    print("C")
+elif graid>60:
+    
