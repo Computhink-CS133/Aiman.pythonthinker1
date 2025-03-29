@@ -88,3 +88,5 @@ for i in range(10):
     else:
         undesire+=1
 
+if undesire>desire:
+    print
