@@ -82,4 +82,4 @@
 desire=0
 undesire=0
 for i in range(10):
-    rate=
+    rate=int(input(""))
