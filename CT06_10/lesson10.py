@@ -117,4 +117,4 @@
 
 
 
-graid=int(inpu)
+graid=int(input("What your "))
