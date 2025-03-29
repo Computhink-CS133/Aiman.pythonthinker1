@@ -128,4 +128,4 @@ elif graid>70:
 elif graid>60:
     print("D")
 else:
-    print("F Yoyu")
+    print("F You suck!")
