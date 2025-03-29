@@ -25,3 +25,5 @@ if agwe<13:
 else:
     if agwe<19:
         print("Teenager")
+    else:
+        print()
