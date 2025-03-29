@@ -6,4 +6,4 @@
 #     print("Positive")
 # else:
 #     print("Negative")
-num=int(input("Give "))
+num=int(input("Give me a random number"))
