@@ -6,7 +6,7 @@
 #     print("Positive")
 # else:
 #     print("Negative")
-num=int(input("Give me a random number"))
+num=int(input("Give me a random number? "))
 if num%2==0:
     print("Even")
 else:
