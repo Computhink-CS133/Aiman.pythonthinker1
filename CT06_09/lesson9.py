@@ -86,4 +86,4 @@ for i in range(10):
     if rate>3:
         desire+=1
     else:
-        
+        undesire+=1
