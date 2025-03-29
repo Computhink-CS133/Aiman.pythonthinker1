@@ -119,3 +119,5 @@
 
 graid=int(input("What your marks? "))
 
+if graid>90:
+    
