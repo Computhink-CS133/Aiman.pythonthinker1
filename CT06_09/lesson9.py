@@ -84,4 +84,6 @@ undesire=0
 for i in range(10):
     rate=int(input("Please leave a rating. "))
     if rate>3:
-        desire++
+        desire+=1
+    else:
+        
