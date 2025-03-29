@@ -48,4 +48,4 @@
 days=int(input("How many days are there? "))
 
 for i in range(days):
-    temp=int(input(""))
+    temp=int(input("Wut is"))
