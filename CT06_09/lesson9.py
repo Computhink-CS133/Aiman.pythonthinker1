@@ -45,4 +45,4 @@
 #     orangeprice=(orangeprice-(orangeprice/10))
 
 # print(appleprice+
-days
+days=int(input)
