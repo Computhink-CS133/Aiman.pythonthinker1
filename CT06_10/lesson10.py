@@ -22,3 +22,6 @@ agwe=int(input("Give me your age right now "))
 
 if agwe<13:
     print("Little kid")
+else:
+    if agwe<19:
+        print
