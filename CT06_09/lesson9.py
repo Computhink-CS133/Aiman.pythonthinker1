@@ -54,4 +54,4 @@ for i in range(days):
         hotdays+=1
 
 
-print("There are "+str(hotdays)+" . ")
+print("There are "+str(hotdays)+" hot days. ")
