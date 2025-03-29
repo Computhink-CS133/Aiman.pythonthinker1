@@ -1,3 +1,3 @@
 print("Hello from lesson 10")
 
-num=
+num=int(input(""))
