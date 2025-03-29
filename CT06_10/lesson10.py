@@ -8,4 +8,6 @@
 #     print("Negative")
 num=int(input("Give me a random number"))
 if num%2==0:
-    print("eve")
+    print("Even")
+else:
+    print()
