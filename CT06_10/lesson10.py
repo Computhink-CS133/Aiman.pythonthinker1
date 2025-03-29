@@ -120,4 +120,7 @@
 graid=int(input("What your marks? "))
 
 if graid>90:
-    print(A)
+    print("A")
+elif graid>80:
+    print("B")
+    elif graid>
