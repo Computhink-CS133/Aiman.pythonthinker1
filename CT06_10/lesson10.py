@@ -119,13 +119,13 @@
 
 graid=int(input("What your marks? "))
 
-if graid>90:
+if graid>=90:
     print("A")
-elif graid>80:
+elif graid>=80:
     print("B")
-elif graid>70:
+elif graid>=70:
     print("C")
-elif graid>60:
+elif graid>=60:
     print("D")
 else:
     print("F You suck!")
