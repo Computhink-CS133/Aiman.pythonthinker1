@@ -18,3 +18,4 @@
 
 
 
+agwe=int(input("Give me your age rig"))
