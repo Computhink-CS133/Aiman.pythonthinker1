@@ -45,4 +45,7 @@
 #     orangeprice=(orangeprice-(orangeprice/10))
 
 # print(appleprice+
-days=int(input("How many days are there?"))
+days=int(input("How many days are there? "))
+
+for i in range(days):
+    temp=int
