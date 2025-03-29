@@ -4,3 +4,5 @@ num=int(input("Give me a number between -100000000000000000000000000000000000000
 
 if num>0:
     print("Positive")
+else:
+    print()
