@@ -55,3 +55,27 @@
 
 
 # print("There are "+str(hotdays)+" hot days. ")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
