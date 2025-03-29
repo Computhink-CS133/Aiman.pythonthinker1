@@ -20,3 +20,5 @@
 
 agwe=int(input("Give me your age right now "))
 
+if agwe<13:
+    
