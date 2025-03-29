@@ -48,4 +48,5 @@
 days=int(input("How many days are there? "))
 
 for i in range(days):
-    temp=int(input("What is the tempar"))
+    temp=int(input("What is the temperature"))
+    
