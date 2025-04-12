@@ -21,5 +21,7 @@
 order=""
 while True:
     want=input("Order some food")
-    
+    if want=="end":
+        break
+        
 
