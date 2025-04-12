@@ -38,7 +38,7 @@
 # print("You ordered "+str(counter)+" food(s) ")
 
 
-
+import random as r
 
 
 day=10
@@ -46,6 +46,7 @@ day=10
 while day>0:
     print(day)
     day-=1
+    
     if day==0:
         break
 
