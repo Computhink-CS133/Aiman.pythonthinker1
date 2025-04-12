@@ -43,7 +43,7 @@
 
 day=10
 
-while day<0:
+while day>0:
     print(day)
     day-=1
 else:
