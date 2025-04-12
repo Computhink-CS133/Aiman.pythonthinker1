@@ -25,6 +25,6 @@ while True:
         break
     order+=order+", " 
 
-order=order-"" 
+order=order-", " 
 print(order) 
 
