@@ -44,4 +44,5 @@
 day=10
 
 while day<0:
-    print
+    print(day)
+    
