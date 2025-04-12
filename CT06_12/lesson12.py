@@ -11,6 +11,6 @@ while True:
     add_pax=input("Add a visitor?")
     if add_pax=="yes":
         pax+=1
-    if pax>30:
+    if pax>max_pax:
         break
 
