@@ -27,9 +27,9 @@ while True:
     if counter==0:
         order+=want 
     else:
-        order+=want 
+        order+=", "+want 
 
-        
+
 
 print(order) 
 
