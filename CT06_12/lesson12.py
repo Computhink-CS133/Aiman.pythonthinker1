@@ -20,5 +20,5 @@
 
 order=""
 while True:
-    want=inpt
+    want=input("Order ")
 
