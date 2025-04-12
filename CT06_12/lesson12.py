@@ -18,21 +18,21 @@
 
 
 
-order=""
-counter=0
-while True:
-    want=input("Order some food. ")
-    if want=="end":
-        break
-    if counter==0:
-        order+=want 
-    else:
-        order+=", "+want 
+# order=""
+# counter=0
+# while True:
+#     want=input("Order some food. ")
+#     if want=="end":
+#         break
+#     if counter==0:
+#         order+=want 
+#     else:
+#         order+=", "+want 
 
-    counter+=1
+#     counter+=1
 
 
 
-print(order) 
-print("You ordered "+str(counter)+" food(s) ")
+# print(order) 
+# print("You ordered "+str(counter)+" food(s) ")
 
