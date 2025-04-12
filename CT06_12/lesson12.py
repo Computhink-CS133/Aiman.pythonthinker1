@@ -46,7 +46,7 @@ day=10
 while day>0:
     print(day)
     day-=1
-    if day==1:
+    if day==0:
         break
 
 else:
