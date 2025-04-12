@@ -25,5 +25,5 @@ while True:
         break
     order+=order+"," 
 
-   
+order-=","   
 
