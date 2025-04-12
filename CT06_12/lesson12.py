@@ -19,6 +19,7 @@
 
 
 order=""
+counter=0
 while True:
     want=input("Order some food. ")
     if want=="end":
