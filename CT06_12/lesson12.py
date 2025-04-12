@@ -20,5 +20,6 @@
 
 order=""
 while True:
-    want=input("Order ")
+    want=input("Order some food")
+    
 
