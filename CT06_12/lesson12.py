@@ -19,4 +19,6 @@
 
 
 order=""
+while True:
+    want=inpt
 
