@@ -24,7 +24,10 @@ while True:
     want=input("Order some food. ")
     if want=="end":
         break
-    order+=", " +want 
+    if counter==0:
+        order+=want 
+    else:
+        order+=want 
 
 print(order) 
 
