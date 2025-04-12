@@ -1,4 +1,5 @@
 
 
 visitors=0
-wh
+while visitors<50:
+    print
