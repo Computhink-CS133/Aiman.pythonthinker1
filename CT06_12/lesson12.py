@@ -29,6 +29,8 @@ while True:
     else:
         order+=", "+want 
 
+    counter+=1
+
 
 
 print(order) 
