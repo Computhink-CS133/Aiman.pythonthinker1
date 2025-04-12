@@ -34,4 +34,5 @@ while True:
 
 
 print(order) 
+print()
 
