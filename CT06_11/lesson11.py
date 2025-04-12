@@ -1,1 +1,1 @@
-var=int(input())
+var=int(input("Write a number"))
