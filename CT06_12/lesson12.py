@@ -34,5 +34,5 @@ while True:
 
 
 print(order) 
-print("You ordered"+)
+print("You ordered"+counter+" food")
 
