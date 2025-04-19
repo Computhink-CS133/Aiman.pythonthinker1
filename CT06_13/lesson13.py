@@ -1,1 +1,1 @@
-money
+money=1000
