@@ -8,7 +8,7 @@ while True:
     print("4.Get out")
     choice=int(input("Choose one"))
     if choice==1:
-        amount==int(input("How much money you want to deposit"))
+        amount==int(input("How much money you want to deposit "))
         if amount<=money:
             money-=amount
             print("You have"+ str(money)+"moneys")
