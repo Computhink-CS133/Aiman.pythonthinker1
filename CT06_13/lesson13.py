@@ -5,5 +5,5 @@ while True:
     print("2.Deposit")
     print("3.Check money")
     print("4.Get out")
-
-i
+    
+    
