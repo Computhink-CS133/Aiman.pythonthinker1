@@ -40,6 +40,7 @@ list_of_stuff=[
 "red strawberry",
 "watermelon",
 "bananas"
+"honey"
 ]
 for i in range(8):
     print(list_of_stuff[i])
