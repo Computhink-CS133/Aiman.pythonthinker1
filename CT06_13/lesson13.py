@@ -20,3 +20,4 @@ while True:
         print("You have"+ str(money)+"moneys")
     if choice==4:
         break
+print("You have"+ str(money)+"moneys")
