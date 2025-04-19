@@ -41,3 +41,5 @@ list_of_stuff=[
 "watermelon",
 "bananas"
 ]
+for i in len(list_of_stuff):
+    
