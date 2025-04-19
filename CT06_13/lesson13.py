@@ -10,4 +10,4 @@ while True:
         amount=int(input("How much money you want to deposit"))
         if amount<=money:
             money-=amount
-            print("You have"+ str(money))
+            print("You have"+ str(money)+"moneys")
