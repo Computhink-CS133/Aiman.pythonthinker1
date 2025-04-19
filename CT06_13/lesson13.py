@@ -41,5 +41,5 @@ list_of_stuff=[
 "watermelon",
 "bananas"
 ]
-for i in len(list_of_stuff):
+for i in range(8):
     print(list_of_stuff[i])
