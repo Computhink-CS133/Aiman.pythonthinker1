@@ -32,8 +32,8 @@
 
 
 list_of_stuff=[
-"apples"
-""
+"apples",
+"green apples"
 
 
 
