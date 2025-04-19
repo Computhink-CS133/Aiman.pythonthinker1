@@ -9,4 +9,5 @@ while True:
     if choice==1:
         amount=int(input("How much money you want to deposit"))
         if amount<=money:
-            money-=
+            money-=amount
+            
