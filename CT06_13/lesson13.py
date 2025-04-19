@@ -13,4 +13,4 @@ while True:
             money-=amount
             print("You have"+ str(money)+"moneys")
     if choice==2:
-        amount==int
+        amount==int(input("How m"))
