@@ -1,3 +1,3 @@
 money=1000
 
-print()
+print("Choose a choice number")
