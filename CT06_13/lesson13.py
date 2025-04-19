@@ -40,15 +40,4 @@ list_of_stuff=[
 "red strawberry",
 "watermelon",
 "bananas"
-
-
-
-
-
-
-
-
-
-
-
 ]
