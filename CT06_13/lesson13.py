@@ -32,6 +32,7 @@
 
 
 list_of_stuff=[
+"apples"
 
 
 
@@ -44,5 +45,5 @@ list_of_stuff=[
 
 
 
-    
+
 ]
