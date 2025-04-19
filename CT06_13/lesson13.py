@@ -38,7 +38,8 @@ list_of_stuff=[
 "Strawberry",
 "unripe strawberry",
 "red strawberry",
-"watermelon"
+"watermelon",
+"bananas"
 
 
 
