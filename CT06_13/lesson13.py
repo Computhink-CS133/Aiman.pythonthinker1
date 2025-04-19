@@ -40,7 +40,8 @@ list_of_stuff=[
 "red strawberry",
 "watermelon",
 "bananas",
-"honey"
+"honey",
+""
 ]
 list_of_stuff.append("ice")
 list_of_stuff.insert(3,"yellow bananas")
