@@ -41,7 +41,7 @@ list_of_stuff=[
 "watermelon",
 "bananas",
 "honey",
-""
+"not food"
 ]
 list_of_stuff.append("ice")
 list_of_stuff.insert(3,"yellow bananas")
