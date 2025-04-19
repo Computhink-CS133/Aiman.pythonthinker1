@@ -15,4 +15,6 @@ while True:
     if choice==2:
         amount==int(input("How much to deposit"))
         money+=amount
-        
+        print("You have"+ str(money)+"moneys")
+    if choice==3:
+        print("You have"+ str(money)+"moneys")
