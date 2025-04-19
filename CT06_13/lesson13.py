@@ -5,5 +5,6 @@ while True:
     print("2.Deposit")
     print("3.Check money")
     print("4.Get out")
-    
-    
+    choice=int(input("Choose one"))
+    if choice==1:
+        amount=int()
