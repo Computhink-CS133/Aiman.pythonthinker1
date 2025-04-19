@@ -42,4 +42,4 @@ list_of_stuff=[
 "bananas"
 ]
 for i in len(list_of_stuff):
-    print(list_of_stuff[])
+    print(list_of_stuff[i])
