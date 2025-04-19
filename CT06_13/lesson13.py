@@ -36,8 +36,8 @@ list_of_stuff=[
 "green apples",
 "extra sweet apples",
 "Strawberry",
-" strawberry"
-
+"unripe strawberry"
+""
 
 
 
