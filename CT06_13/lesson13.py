@@ -47,3 +47,5 @@ list_of_stuff.insert(3,"yellow bananas")
 list_of_stuff[8]="herbs"
 for i in list_of_stuff:
     print(list_of_stuff[i])
+
+    
