@@ -31,4 +31,18 @@
 
 
 
-list_of_
+list_of_stuff=[
+
+
+
+
+
+
+
+
+
+
+
+
+    
+]
