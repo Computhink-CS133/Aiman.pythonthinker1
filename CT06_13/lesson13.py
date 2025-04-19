@@ -18,3 +18,5 @@ while True:
         print("You have"+ str(money)+"moneys")
     if choice==3:
         print("You have"+ str(money)+"moneys")
+    if choice==4:
+        break
