@@ -42,6 +42,6 @@ list_of_stuff=[
 "bananas",
 "honey"
 ]
-item[]
+item[8]="herbs"
 for i in range(8):
     print(list_of_stuff[i])
