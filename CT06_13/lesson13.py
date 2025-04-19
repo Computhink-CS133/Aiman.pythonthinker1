@@ -1,4 +1,4 @@
 money=1000
 
 print("Choose a choice number")
-print("")
+print("1.Withdraw")
