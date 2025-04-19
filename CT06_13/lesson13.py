@@ -7,4 +7,4 @@ while True:
     print("4.Get out")
     choice=int(input("Choose one"))
     if choice==1:
-        amount=int()
+        amount=int(input(""))
