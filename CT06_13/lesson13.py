@@ -42,6 +42,6 @@ list_of_stuff=[
 "bananas",
 "honey"
 ]
-
+item[]
 for i in range(8):
     print(list_of_stuff[i])
