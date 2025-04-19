@@ -15,3 +15,4 @@ while True:
     if choice==2:
         amount==int(input("How much to deposit"))
         money+=amount
+        
