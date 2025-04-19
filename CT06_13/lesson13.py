@@ -10,7 +10,7 @@ while True:
     if choice==1:
         amount==int(input("How much money you want to withdraw "))
         if amount<=money:
-            money=amount
+            money=money-amount
             print("You have "+ str(money)+" moneys")
     if choice==2:
         amount==int(input("How much to deposit "))
