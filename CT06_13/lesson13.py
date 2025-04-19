@@ -39,8 +39,9 @@ list_of_stuff=[
 "unripe strawberry",
 "red strawberry",
 "watermelon",
-"bananas"
+"bananas",
 "honey"
 ]
+
 for i in range(8):
     print(list_of_stuff[i])
