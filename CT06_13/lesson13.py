@@ -42,7 +42,7 @@ list_of_stuff=[
 "bananas",
 "honey"
 ]
-list_of_stuff.insert(10000000000000000000,"ice")
+list_of_stuff.append("ice")
 list_of_stuff.insert(3,"yellow bananas")
 list_of_stuff[8]="herbs"
 for i in list_of_stuff:
