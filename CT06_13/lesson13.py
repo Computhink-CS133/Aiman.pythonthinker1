@@ -47,7 +47,7 @@ list_of_stuff.append("ice")
 list_of_stuff.insert(3,"yellow bananas")
 list_of_stuff[8]="herbs"
 del(list_of_stuff[10])
-for i in list_of_stuff:
+for i in range(list_of_stuff):
     print(list_of_stuff[i])
 
 
