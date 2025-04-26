@@ -44,7 +44,7 @@ while True:
     add=input("What topping to add. Type end to end ")
     if add== "end":
         break
-    elif inde:
+    else:
         user_toppings.append(add)
 
 for i in range(len(user_toppings)):
