@@ -1,13 +1,12 @@
 
-import turtle as t
+import turtle a
 
-window = t.Screen()
+window = turtle.Screen()
 
 window.setup(width=600,height=400)
-turtle=t.Turtle()
-turtle.shape("turtle")
-turtle.fillcolor("orange")
-turtle.seth(180)
-turtle.down(2)
+t=turtle.Turtle()
+t.shape("turtle")
+t.fillcolor("orange")
+t.down(2)
 window.mainloop()
 
