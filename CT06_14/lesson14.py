@@ -9,6 +9,6 @@ turtle.shape("turtle")
 turtle.fillcolor("orange")
 seth=0
 turtle.seth(seth)
-seth+=1
+seth+=10
 window.mainloop()
 
