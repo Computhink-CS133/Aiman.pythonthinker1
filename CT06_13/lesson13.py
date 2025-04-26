@@ -28,7 +28,7 @@ topping=[
     "Pepperoni",
     "cheeeeees",
     "lettuceee",
-    "tomatooo"
+    "tomatooo",
 ]
 
 
