@@ -8,7 +8,8 @@ turtle=t.Turtle()
 turtle.shape("turtle")
 turtle.fillcolor("orange")
 turtle.seth(180)
-for i in range(10): turtle.down
+for i in range(10):
+ turtle.down
 turtle.forward
 window.mainloop()
 
