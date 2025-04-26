@@ -40,7 +40,8 @@ while True:
     else:
         user_topping.append(add)
 
-
+for i in range(len(user_toppings)):
+    print(user)
 
 
 
