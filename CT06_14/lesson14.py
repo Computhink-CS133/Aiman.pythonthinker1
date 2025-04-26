@@ -8,6 +8,9 @@ t=turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("orange")
 
-t.forward(100)
+for i in range(3):
+    t.forward(100)
+    
+
 window.mainloop()
 
