@@ -23,6 +23,7 @@
 #     if choice==4:
 #         break
 # print("You have "+ str(money)+" moneys")
+print()
 
 toppings=[
     "1. Pepperoni",
