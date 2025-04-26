@@ -25,7 +25,8 @@
 # print("You have "+ str(money)+" moneys")
 
 topping=[
-    ""
+    "Pepperoni",
+    
 ]
 
 
