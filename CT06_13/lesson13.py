@@ -41,11 +41,11 @@ print("You can add "+ str(toppings) +" toppings" )
 user_toppings=[]
 
 while True:
-    add=input("What topping to add. Type end to end ")
+    add=input("What number of ttopping to add. Type end to end ")
     if add== "end":
         break
     else:
-        
+
         user_toppings.append(add)
 
 for i in range(len(user_toppings)):
