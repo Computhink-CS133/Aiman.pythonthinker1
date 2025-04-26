@@ -31,7 +31,7 @@ toppings=[
     "tomatooo",
 ]
 
-print("You can add "+ toppings +" toppings" )
+print("You can add "+ str(toppings) +" toppings" )
 
 
 # create list of pizza toppings
