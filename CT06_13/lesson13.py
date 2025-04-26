@@ -35,7 +35,7 @@ toppings=[
 print("You can add "+ str(toppings) +" toppings" )
 
 user_toppings=[]
-
+print(len(user_toppings))
 
 while True:
     add=input("What number of the topping to add. Type end or type text to end ")
