@@ -3,4 +3,4 @@ import turtle as t
 
 window = t.Screen()
 window.mainloop()
-window.setup(100,100)
+window.setup(width=100,height=100)
