@@ -34,7 +34,7 @@
 user_toppings=[]
 
 while true:
-    add=input("")
+    add=input("What topping to add. ")
 
 
 
