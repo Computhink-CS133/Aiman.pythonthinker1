@@ -8,6 +8,6 @@ t=turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("orange")
 
-t.forward
+t.forward(10)
 window.mainloop()
 
