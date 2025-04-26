@@ -9,7 +9,7 @@ t.shape("turtle")
 t.fillcolor("orange")
 
 for i in range(1):
-    t.forward(100)
+    t.forward(1000)
     
 
 window.mainloop()
