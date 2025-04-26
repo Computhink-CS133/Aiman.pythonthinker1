@@ -25,8 +25,8 @@
 # print("You have "+ str(money)+" moneys")
 
 toppings=[
-    "Pepperoni",
-    "chese",
+    "1. Pepperoni",
+    "cheese",
     "lettuce",
     "tomato",
 ]
