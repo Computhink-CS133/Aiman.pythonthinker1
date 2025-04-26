@@ -26,7 +26,7 @@
 
 toppings=[
     "Pepperoni",
-    "cheeeeees",
+    "cheeeeese",
     "lettuceee",
     "tomatooo",
 ]
