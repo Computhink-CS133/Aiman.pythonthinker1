@@ -1,4 +1,4 @@
 # 
 import turtle as t
 
-windowt.Screen()
+window = t.Screen()
