@@ -45,8 +45,11 @@ while True:
 
 
 print("You ordered:")
-for i in range(len(user_toppings)):
-    print(user_toppings[i])
+if len(user_toppings)>=1:
+    for i in range(len(user_toppings)):
+        print(user_toppings[i])
+    else:
+        print("NOTHING :)")
 
 
 
