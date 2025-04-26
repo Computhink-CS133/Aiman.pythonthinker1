@@ -33,11 +33,6 @@ toppings=[
 
 print("You can add "+ str(toppings) +" toppings" )
 
-
-# create list of pizza toppings
-
-# print out the toppings in a menu for the user
-
 user_toppings=[]
 
 while True:
