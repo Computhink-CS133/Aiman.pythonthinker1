@@ -26,9 +26,9 @@
 
 toppings=[
     "1. Pepperoni",
-    "cheese",
-    "lettuce",
-    "tomato",
+    "2. Cheese",
+    "3. lettuce",
+    "4. tomato",
 ]
 
 print("You can add "+ str(toppings) +" toppings" )
