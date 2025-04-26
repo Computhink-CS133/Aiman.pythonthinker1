@@ -24,12 +24,16 @@
 #         break
 # print("You have "+ str(money)+" moneys")
 
-
+topping=[
+    ""
+]
 
 
 
 
 # create list of pizza toppings
+
+# print out the toppings in a menu for the user
 
 user_toppings=[]
 
