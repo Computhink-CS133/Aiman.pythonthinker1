@@ -1,4 +1,4 @@
 # 
 import turtle as t
 
-t.screen()
+windowt.Screen()
