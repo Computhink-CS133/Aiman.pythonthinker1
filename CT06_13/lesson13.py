@@ -41,7 +41,7 @@ while True:
         user_topping.append(add)
 
 for i in range(len(user_toppings)):
-    print(user)
+    print(user_toppings[i])
 
 
 
