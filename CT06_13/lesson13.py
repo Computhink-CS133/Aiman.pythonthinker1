@@ -46,7 +46,7 @@ while True:
         break
     else:
 
-        user_toppings.append(add)
+        user_toppings.append(toppings[add])
 
 for i in range(len(user_toppings)):
     print(user_toppings[i])
