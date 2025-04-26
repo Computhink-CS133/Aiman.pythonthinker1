@@ -5,6 +5,6 @@ window = t.Screen()
 
 window.setup(width=600,height=400)
 turtle=t.Turtle()
+turtle.shape("turtle")
 window.mainloop()
 
-turtle.shape("turtle")
