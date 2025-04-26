@@ -38,7 +38,9 @@ while True:
     if add!= "end":
         break
     else:
-        user_topping.append()
+        user_topping.append(add)
+
+
 
 
 
