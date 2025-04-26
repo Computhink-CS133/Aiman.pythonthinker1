@@ -34,7 +34,7 @@
 user_toppings=[]
 
 while True:
-    add=input("What topping to add. Type end to end")
+    add=input("What topping to add. Type end to end ")
     if add!= "end":
         break
     else:
