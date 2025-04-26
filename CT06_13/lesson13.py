@@ -44,7 +44,7 @@ while True:
         user_toppings.append(toppings[int(add)-1])
 
 
-print()
+print("You ordered:")
 for i in range(len(user_toppings)):
     print(user_toppings[i])
 
