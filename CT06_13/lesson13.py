@@ -35,10 +35,10 @@ user_toppings=[]
 
 while True:
     add=input("What topping to add. Type end to end ")
-    if add!= "end":
+    if add== "end":
         break
     else:
-        user_topping.append(add)
+        user_toppings.append(add)
 
 for i in range(len(user_toppings)):
     print(user_toppings[i])
