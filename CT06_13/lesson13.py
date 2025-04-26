@@ -43,6 +43,8 @@ while True:
 
         user_toppings.append(toppings[int(add)-1])
 
+
+print()
 for i in range(len(user_toppings)):
     print(user_toppings[i])
 
