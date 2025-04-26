@@ -24,14 +24,14 @@
 #         break
 # print("You have "+ str(money)+" moneys")
 
-topping=[
+toppings=[
     "Pepperoni",
     "cheeeeees",
     "lettuceee",
     "tomatooo",
 ]
 
-print("You can add "+ to )
+print("You can add "+ toppings +" t" )
 
 
 # create list of pizza toppings
