@@ -31,24 +31,7 @@
 
 
 
-list_of_stuff=[
-"apples",
-"green apples",
-"extra sweet apples",
-"Strawberry",
-"unripe strawberry",
-"red strawberry",
-"watermelon",
-"bananas",
-"honey",
-"not food"
-]
-list_of_stuff.append("ice")
-list_of_stuff.insert(3,"yellow bananas")
-list_of_stuff[8]="herbs"
-del(list_of_stuff[10])
-for i in range(len(list_of_stuff)):
-    print(list_of_stuff[i])
+
 
 
 
