@@ -3,4 +3,4 @@ import turtle as t
 
 window = t.Screen()
 window.mainloop()
-window.setup()
+window.setup(100,100)
