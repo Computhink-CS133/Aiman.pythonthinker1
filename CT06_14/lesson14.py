@@ -8,5 +8,6 @@ turtle=t.Turtle()
 turtle.shape("turtle")
 turtle.fillcolor("orange")
 turtle.seth(180)
+
 window.mainloop()
 
