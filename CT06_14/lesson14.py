@@ -7,6 +7,6 @@ window.setup(width=600,height=400)
 turtle=t.Turtle()
 turtle.shape("turtle")
 turtle.fillcolor("orange")
-turtle.seth(0)
+turtle.seth(90)
 window.mainloop()
 
