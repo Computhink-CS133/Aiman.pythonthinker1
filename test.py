@@ -7,5 +7,5 @@ planets.append("neptune")
 
 planets[3]="muskworld"
 
-ur
+planets.pop()
 
