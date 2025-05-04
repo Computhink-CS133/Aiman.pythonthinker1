@@ -1,2 +1,2 @@
-name = input()
+name = input("who is there? ")
 
