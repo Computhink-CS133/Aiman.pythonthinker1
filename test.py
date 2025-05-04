@@ -3,9 +3,9 @@ password="superpass123"
 userinput=input("What is the password")
 
 if userinput==password:
-    print("Access granted!")
+    print("Access Granted!")
 else:
-    print("Ac")
+    print("Access Denied")
 
 
 
