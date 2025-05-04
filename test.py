@@ -3,9 +3,11 @@ multiple=10
 
 Endnum=200
 
-while number<Endnum+number:
+while True:
     print(number)
-    number+=10
+    number+=multiple
+    if number>Endnum+multiple:
+        break
 
 
 
