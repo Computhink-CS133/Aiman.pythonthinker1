@@ -1,2 +1,2 @@
-name = i
+name = input()
 
