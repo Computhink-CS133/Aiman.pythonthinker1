@@ -5,7 +5,7 @@ Endnum=200
 
 while number<Endnum+number:
     print(number)
-    number+multiple
+    number=number+multiple
 
 
 
