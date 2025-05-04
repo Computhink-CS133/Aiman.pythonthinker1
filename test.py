@@ -1,11 +1,6 @@
-password="superpass123"
+planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 
-userinput=input("What is the password? ")
 
-if userinput==password:
-    print("Access Granted!")
-else:
-    print("Access Denied!")
 
 
 
