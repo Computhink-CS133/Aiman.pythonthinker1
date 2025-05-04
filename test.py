@@ -4,6 +4,7 @@ Endnum=200
 
 while number<Endnum+number:
     print(number)
+    break
 
 
 
