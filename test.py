@@ -11,4 +11,4 @@ planets.pop(6)
 
 # for i in len(planets):
 #     print(planets[i])
-print(type(p))
+print(type(len(planets)))
