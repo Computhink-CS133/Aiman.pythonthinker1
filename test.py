@@ -1,4 +1,4 @@
 import random as r
-print(r.rand)
+print(r.randint(1,100))
 
 
