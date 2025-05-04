@@ -3,5 +3,5 @@ planets = ["mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus" ]
 print(planets[2])
 
 
-planets.append("Uranus")
+planets.append("ne")
 
