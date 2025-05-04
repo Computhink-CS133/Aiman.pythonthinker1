@@ -1,8 +1,9 @@
 password="superpass123"
 
-input=input("What is the password")
+userinput=input("What is the password")
 
-
+if userinput==password:
+    print()
 
 
 
