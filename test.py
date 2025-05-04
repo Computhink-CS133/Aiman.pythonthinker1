@@ -1,6 +1,6 @@
 password="superpass123"
 
-input=input()
+input=input("What is the password")
 
 
 
