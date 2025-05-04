@@ -9,3 +9,6 @@ planets[3]="muskworld"
 
 planets.pop(6)
 
+for i in len(planets):
+    print()
+
