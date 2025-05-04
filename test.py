@@ -5,5 +5,5 @@ print(planets[2])
 
 planets.append("neptune")
 
-planets[]
+planets[3]=musk
 
