@@ -1,4 +1,5 @@
 number=10
+multiple=
 
 Endnum=200
 
