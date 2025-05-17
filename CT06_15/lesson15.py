@@ -20,12 +20,12 @@
     # # else:
     #     print(str(i)+" is odd")
 
-import random
+import random as r
 
 # def square(num):
 #     return num*num
 # print(square(random.random()))
-num
+
 
 def sum_squae(num1,num2):
     return num1*num2+num2*num2
