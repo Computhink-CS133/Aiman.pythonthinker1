@@ -9,3 +9,5 @@
     
 # print(counter)
 
+def EvenOrOdd(num):
+    i
