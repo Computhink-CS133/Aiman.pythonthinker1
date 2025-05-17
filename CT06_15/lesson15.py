@@ -20,6 +20,7 @@
     # # else:
     #     print(str(i)+" is odd")
 
+import 
 
 def square(num):
     return num*num
