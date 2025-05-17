@@ -20,8 +20,8 @@
     # # else:
     #     print(str(i)+" is odd")
 
-import 
+import random
 
 def square(num):
     return num*num
-print(square(1))
+print(square())
