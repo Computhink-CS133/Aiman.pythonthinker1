@@ -9,7 +9,7 @@
     
 # print(counter)
 
-def EvenOrOdd(num):
+def isEven(num):
     global number
     number+=1
     return num % 2 == 0
