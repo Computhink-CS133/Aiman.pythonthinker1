@@ -9,13 +9,13 @@
     
 # print(counter)
 
-def isEven(num):
-    return num % 2 == 0
+# def isEven(num):
+#     return num % 2 == 0
 
 
 
-for i in range(1,101):
-    if isEven(i):
-        print(str(i)+ " is even")
-    else:
-        print(str(i)+" is odd")
+# for i in range(1,101):
+    # if isEven(i):
+    #     print(str(i)+ " is even")
+    # # else:
+    #     print(str(i)+" is odd")
