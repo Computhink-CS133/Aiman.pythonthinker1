@@ -28,5 +28,5 @@ def square(num):
 
 
 def sum_squae(num1,num2):
-    return square+num2*num2
+    return square(num1) + 
 print(sum_squae(round(r.random*100,),1038103))
