@@ -28,4 +28,4 @@ print(square(random.random()))
 
 def sum_squae(num1,num2):
     return num1*num2+num2*num2
-print(sum_squae())
+print(sum_squae(182635,1038103))
