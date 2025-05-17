@@ -13,7 +13,7 @@ def isEven(num):
     return num % 2 == 0
 
 
-number=0
+
 for i in range(1,101):
     if isEven(i):
         print(str(i)+ " is even")
