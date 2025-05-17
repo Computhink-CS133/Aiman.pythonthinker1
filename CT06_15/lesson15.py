@@ -20,4 +20,4 @@ for i in range(100):
     if result:
         print(str(number)+ " is even")
     else:
-        print
+        print(str(number))
