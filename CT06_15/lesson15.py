@@ -15,7 +15,7 @@ def isEven(num):
 
 number=0
 for i in range(100):
-    if isEven():
+    if isEven(i):
         print(str(number)+ " is even")
     else:
         print(str(number)+" is odd")
