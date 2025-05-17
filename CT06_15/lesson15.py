@@ -11,3 +11,5 @@
 
 def EvenOrOdd(num):
     return num % 2 ==0
+
+number=0
