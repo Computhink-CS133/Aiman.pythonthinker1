@@ -9,7 +9,7 @@ t.shape("turtle")
 t.fillcolor("orange")
 
 for i in range(1):
-    t.c
+    t.circle(90)
     
 
 window.mainloop()
