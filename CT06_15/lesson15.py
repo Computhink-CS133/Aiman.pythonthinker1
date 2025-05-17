@@ -2,4 +2,4 @@
 counter=1
 
 def increase():
-    globa
+    global counter 
