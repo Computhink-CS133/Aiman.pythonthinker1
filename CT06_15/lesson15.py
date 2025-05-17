@@ -29,4 +29,4 @@ import random as r
 
 def sum_squae(num1,num2):
     return num1*num2+num2*num2
-print(sum_squae(ceilr.random*100,1038103))
+print(sum_squae(ro(r.random*100),1038103))
