@@ -20,6 +20,7 @@
     # # else:
     #     print(str(i)+" is odd")
 
+
 def square(num):
     return num*num
-print(square(87657868766))
+print(square(1))
