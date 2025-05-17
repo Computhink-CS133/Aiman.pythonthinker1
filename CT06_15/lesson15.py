@@ -21,4 +21,4 @@
     #     print(str(i)+" is odd")
 
 def square(num):
-    
+    return num*num
