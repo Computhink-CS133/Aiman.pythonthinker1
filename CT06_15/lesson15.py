@@ -18,7 +18,7 @@ def EvenOrOdd(num):
 number=0
 for i in range(100):
     result=EvenOrOdd(number)
-    if result==True:
+    if result:
         print(str(number)+ " is even")
     else:
         print(str(number)+" is odd")
