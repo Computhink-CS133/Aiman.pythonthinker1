@@ -10,4 +10,4 @@
 # print(counter)
 
 def EvenOrOdd(num):
-    return 
+    return num % 2 ==0
