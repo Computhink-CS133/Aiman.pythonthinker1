@@ -16,4 +16,5 @@ def EvenOrOdd(num):
 
 number=0
 for i in range(100):
-    EvenOrOdd
+    EvenOrOdd(number)
+    print
