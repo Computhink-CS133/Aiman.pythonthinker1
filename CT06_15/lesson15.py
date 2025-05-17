@@ -29,4 +29,4 @@ def square(num):
 
 def sum_squae(num1,num2):
     return square(num1) + square(num2)
-print(sum_squae(round(r.random*100,),1038103))
+print(sum_squae(r,randint,1038103))
