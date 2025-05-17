@@ -3,7 +3,7 @@ counter=0
 
 def increase(num):
     global counter 
-    counter +=1
+    counter +=num
 for i in range(3):
     increase(1)
     
