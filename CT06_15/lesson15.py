@@ -19,3 +19,6 @@
     #     print(str(i)+ " is even")
     # # else:
     #     print(str(i)+" is odd")
+
+def square(num):
+    
