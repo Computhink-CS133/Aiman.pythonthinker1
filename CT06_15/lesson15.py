@@ -6,3 +6,4 @@ def increase():
     counter +=1
 for i in range(3):
     increase()
+print()
