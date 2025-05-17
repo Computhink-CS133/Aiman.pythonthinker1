@@ -12,7 +12,7 @@
 def EvenOrOdd(num):
     global number
     number+=1
-    return num % 2 ==0
+    return num % 2 == 0
 
 
 number=0
