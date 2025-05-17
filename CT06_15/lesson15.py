@@ -19,3 +19,5 @@ for i in range(100):
     result=EvenOrOdd(number)
     if result:
         print(str(number)+ " is even")
+    else:
+        print
