@@ -25,3 +25,6 @@ import random
 def square(num):
     return num*num
 print(square(random.random()))
+
+def sum_squae(num1,num2):
+    return
