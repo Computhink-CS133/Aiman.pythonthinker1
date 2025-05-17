@@ -29,4 +29,6 @@ def square(num):
 
 def sum_squae(num1,num2):
     return square(num1) + square(num2)
-print(sum_squae(r.randint(1,100),r.randint(1,100)))
+input1=str(r.randint(1,100))
+input2=str(r.randint(1,100))
+print(sum_squae(input1,))
