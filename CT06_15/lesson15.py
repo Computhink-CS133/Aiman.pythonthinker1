@@ -24,4 +24,4 @@ import random
 
 def square(num):
     return num*num
-print(square())
+print(square(random.randint(1,100)))
