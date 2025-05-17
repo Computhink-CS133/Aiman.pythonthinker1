@@ -22,11 +22,11 @@
 
 import random as r
 
-# def square(num):
-#     return num*num
+def square(num):
+    return num*num
 # print(square(random.random()))
 
 
 def sum_squae(num1,num2):
-    return num1*num2+num2*num2
+    return square+num2*num2
 print(sum_squae(round(r.random*100,),1038103))
