@@ -1,4 +1,6 @@
 import turtle
+
+
 def create_balls():
     ball=turtle.Turtle()
     ball.shape("circle")
@@ -14,7 +16,7 @@ def setupwindow(width,height):
 
 screen=setupwindow(300,500)
 balls=create_balls()
-move_balls_left()
+
 
 
 screen.mainloop()
