@@ -7,7 +7,8 @@ def moveBall(ball,dx,dy):
     ball.sety(ball.ycor()+dy)
 def check_y(ball,screenheight):
     return ball.ycor()>(screenheight/2) or ball.ycor()<(-screenheight/2)
-
+def drawBorder(ball,width,height):
+    ball.
 
 def create_balls():
     ball=turtle.Turtle()
