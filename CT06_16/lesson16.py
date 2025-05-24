@@ -30,8 +30,8 @@ dy=2
 
 while True:
     moveBall(balls,dx,dy)
-    if check_x(balls,):
+    if check_x(balls,300):
         dx*=-1
-    if check_y():
+    if check_y(balls,500):
         dy*=-1
 screen.mainloop()
