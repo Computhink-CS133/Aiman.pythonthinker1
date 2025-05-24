@@ -1,7 +1,8 @@
 import turtle
 def moveBall(ball,dx,dy):
     right=True
-    
+    if ball.xcor()>=300:
+        right=
     ball.setx(ball.xcor()+dx)
     ball.sety(ball.ycor()+dy)
     
