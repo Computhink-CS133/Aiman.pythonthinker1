@@ -2,7 +2,7 @@ import turtle
 def create_balls():
     ball=turtle.Turtle()
     ball.shape("ball")
-    ball.col
+    ball.color("blue")
 
 def setupwindow(width,height):
     window=turtle.Screen()
