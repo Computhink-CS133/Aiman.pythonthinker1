@@ -26,7 +26,9 @@ balls=create_balls()
 dx=2
 dy=2
 
+
 while True:
     moveBall(balls,dx,dy)
-    
+    if check_x():
+        dx
 screen.mainloop()
