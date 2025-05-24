@@ -4,7 +4,7 @@ def moveBall(ball,dx,dy):
     if ball.xcor()>=300:
         right=False
     else:
-        rih
+        right=True
     ball.setx(ball.xcor()+dx)
     ball.sety(ball.ycor()+dy)
     
