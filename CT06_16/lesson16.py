@@ -7,6 +7,8 @@ def moveBall(ball,dx,dy):
         right=True
     if right:
         ball.setx(ball.xcor()+dx)
+    else:
+        ball.setx(ball.xcor()+dx)
     ball.sety(ball.ycor()+dy)
     
 
