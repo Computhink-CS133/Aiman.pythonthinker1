@@ -1,7 +1,8 @@
 import turtle
 def create_balls():
     ball=turtle.Turtle()
-    ball.shape()
+    ball.shape("ball")
+    ball.col
 
 def setupwindow(width,height):
     window=turtle.Screen()
