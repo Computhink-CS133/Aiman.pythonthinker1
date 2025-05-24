@@ -30,7 +30,7 @@ dy=2
 
 while True:
     moveBall(balls,dx,dy)
-    if check_x():
+    if check_x(balls,):
         dx*=-1
     if check_y():
         dy*=-1
