@@ -1,6 +1,4 @@
 import turtle
-
-
 def create_balls():
     ball=turtle.Turtle()
     ball.shape("circle")
