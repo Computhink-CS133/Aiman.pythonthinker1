@@ -10,7 +10,7 @@ def check_y(ball,screenheight):
 def drawBorder(ball,width,height):
     ball.setx(width)
     ball.sety(height)
-    
+    ball.
 
 def create_balls():
     ball=turtle.Turtle()
