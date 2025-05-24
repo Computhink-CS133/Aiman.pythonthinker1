@@ -13,8 +13,6 @@ def moveBall(ball,dx,dy):
     
 
 def create_balls():
-    ball.setx=0
-    ball.sety=0
     ball=turtle.Turtle()
     ball.shape("circle")
     ball.color("blue")
