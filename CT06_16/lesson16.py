@@ -11,5 +11,6 @@ def setupwindow(width,height):
     return window
 
 screen=setupwindow(300,500)
+balls=
 
 screen.mainloop()
