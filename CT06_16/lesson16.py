@@ -1,3 +1,3 @@
 import turtle
 
-turtle.
+window=turt
