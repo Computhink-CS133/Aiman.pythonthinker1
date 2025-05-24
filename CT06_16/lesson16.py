@@ -30,5 +30,5 @@ dy=2
 while True:
     moveBall(balls,dx,dy)
     if check_x():
-        dx*=
+        dx*=-1
 screen.mainloop()
