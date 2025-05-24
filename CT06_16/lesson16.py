@@ -5,7 +5,8 @@ def moveBall(ball,dx,dy):
 
     ball.setx(ball.xcor()+dx)
     ball.sety(ball.ycor()+dy)
-
+def check_y(ball,screenwidth):
+    return ball.ycor()>(screenwidth/2) or ball.xcor()<(-screenwidth/2)
 
 
 def create_balls():
