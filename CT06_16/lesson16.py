@@ -27,5 +27,5 @@ dy=2
 
 while True:
     moveBall(balls,dx,dy)
-    check_x()
+    
 screen.mainloop()
