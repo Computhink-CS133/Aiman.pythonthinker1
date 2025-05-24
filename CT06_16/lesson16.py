@@ -9,6 +9,6 @@ def DrawShapes(length,num_sides):
         t.forward(length)
         t.left(360/num_sides)
 
-DrawShapes(100,36)
+DrawShapes(10,36)
 
 window.mainloop()
