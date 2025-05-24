@@ -1,6 +1,8 @@
 import turtle
+def setupwindow(width,height):
+    window=turtle.Screen()
+    window.setup(width,height)
 
-window=turtle.Screen()
-window.setup(300,300)
+setupwindow()
 
 window.mainloop()
