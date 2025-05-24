@@ -1,7 +1,7 @@
 import turtle
 def create_balls():
     ball=turtle.Turtle()
-    ball.shape("ball")
+    ball.shape("circle")
     ball.color("blue")
     ball.up
     return ball
