@@ -2,6 +2,7 @@ import turtle
 def moveBall(ball,dx,dy):
     ball.setx(ball.xcor()+dx)
     ball.sety(ball.ycor()+dy)
+    
 
 def create_balls():
     ball=turtle.Turtle()
@@ -19,7 +20,8 @@ def setupwindow(width,height):
 screen=setupwindow(300,500)
 balls=create_balls()
 
-
+for i in range(100):
+    mo
 
 
 
