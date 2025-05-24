@@ -1,3 +1,5 @@
 import turtle
 
-window=turtle.Screen()
+window=turtle.Screen(400,600)
+
+t=turtle.Turle
