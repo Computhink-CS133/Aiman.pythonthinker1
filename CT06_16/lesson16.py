@@ -1,6 +1,6 @@
 import turtle
 def moveBall(ball,dx,dy):
-    ball.x
+    ball.setx(xcor+dx)
 
 def create_balls():
     ball=turtle.Turtle()
