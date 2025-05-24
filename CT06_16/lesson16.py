@@ -3,7 +3,7 @@ def create_balls():
     ball=turtle.Turtle()
     ball.shape("circle")
     ball.color("blue")
-    ball.up() # missing ()
+    ball.up() 
     return ball
 
 def setupwindow(width,height):
