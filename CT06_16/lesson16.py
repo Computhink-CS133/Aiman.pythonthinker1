@@ -27,6 +27,7 @@ def setupwindow(width,height):
 
 screen=setupwindow(300,500)
 balls=create_balls()
+balls.setx=0
 balls.set
 
 while True:
