@@ -5,6 +5,6 @@ def setupwindow(width,height):
     # return the window here
     return window
 
-screen=setupwindow(300,500)
+setupwindow(300,500)
 
 window.mainloop()
