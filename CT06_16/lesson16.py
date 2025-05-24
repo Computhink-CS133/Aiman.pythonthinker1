@@ -20,7 +20,7 @@ def setupwindow(width,height):
 screen=setupwindow(300,500)
 balls=create_balls()
 
-for i in range(10000):
+while True:
     moveBall(balls,2,2)
 
 screen.mainloop()
