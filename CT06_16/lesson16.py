@@ -1,3 +1,3 @@
 import turtle
 
-window=turt
+window=turtle.Screen()
