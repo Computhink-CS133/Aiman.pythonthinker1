@@ -33,5 +33,5 @@ while True:
     if check_x():
         dx*=-1
     if check_y():
-        dy
+        dy*=-1
 screen.mainloop()
