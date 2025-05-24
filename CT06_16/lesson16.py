@@ -1,5 +1,6 @@
 import turtle
 def moveBall(ball,dx,dy):
+    right
     ball.setx(ball.xcor()+dx)
     ball.sety(ball.ycor()+dy)
     
