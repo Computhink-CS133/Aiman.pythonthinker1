@@ -21,7 +21,7 @@ screen=setupwindow(300,500)
 balls=create_balls()
 
 for i in range(100):
-    mo
+    moveBall(balls,2,2)
 
 
 
