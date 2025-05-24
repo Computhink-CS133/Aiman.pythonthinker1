@@ -4,6 +4,7 @@ def create_balls():
     ball.shape("ball")
     ball.color("blue")
     ball.up
+    return ball
 
 def setupwindow(width,height):
     window=turtle.Screen()
