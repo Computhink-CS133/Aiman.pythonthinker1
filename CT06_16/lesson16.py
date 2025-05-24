@@ -1,10 +1,11 @@
 import turtle
+def check_x(ball,screenwidth):
+    return ball.xcor()>(screenwidth/2) or ball.xcor()<(-screenwidth/2)
 def moveBall(ball,dx,dy):
 
     ball.setx(ball.xcor()+dx)
     ball.sety(ball.ycor()+dy)
-def check_x(ball,screenwidth):
-    return ball.xcor()>(screenwidth/2) or ball.xcor()<(-screenwidth/2)
+
 
 
 def create_balls():
