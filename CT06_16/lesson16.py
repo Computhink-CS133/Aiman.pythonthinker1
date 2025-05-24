@@ -3,7 +3,9 @@ def moveBall(ball,dx,dy):
 
     ball.setx(ball.xcor()+dx)
     ball.sety(ball.ycor()+dy)
-    
+def check_x():
+    return ball
+
 
 def create_balls():
     ball=turtle.Turtle()
@@ -20,10 +22,10 @@ def setupwindow(width,height):
 
 screen=setupwindow(300,500)
 balls=create_balls()
-balls.setx=0
-balls.sety=0
+dx=2
+dy=2
 
 while True:
-    moveBall(balls,2,2)
+    moveBall(balls,dx,dy)
 
 screen.mainloop()
